@@ -1,2 +1,0 @@
-# PrepSAT-certificate
-qualified certificate
